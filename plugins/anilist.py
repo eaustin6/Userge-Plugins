@@ -6,6 +6,7 @@
 # Anime Reverse Search Powered by tracemoepy.
 # TraceMoePy (GitHub: https://github.com/DragSama/tracemoepy)
 # (C) Author: Phyco-Ninja (https://github.com/Phyco-Ninja) (@PhycoNinja13b)
+#
 
 import os
 from datetime import datetime
